@@ -193,7 +193,6 @@ const Home = () => {
             </Button>
             <Button 
               size="lg" 
-              variant="outline" 
               className="border-saffron-foreground text-saffron-foreground hover:bg-saffron-foreground hover:text-saffron"
               asChild
             >
